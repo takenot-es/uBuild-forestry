@@ -46,21 +46,6 @@ page_sections:
   logo: ''
   navigation: []
   cta: ''
-- template: hero-banner-w-image
-  block: hero-2
-  logo: ''
-  navigation: ''
-  cta: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
