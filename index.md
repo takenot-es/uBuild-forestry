@@ -41,6 +41,11 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: hero-banner-w-image
+  block: hero-2
+  logo: ''
+  navigation: ''
+  cta: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
