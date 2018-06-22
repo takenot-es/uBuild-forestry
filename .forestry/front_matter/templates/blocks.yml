@@ -3,6 +3,9 @@ hide_body: false
 is_partial: false
 fields:
 - type: blocks
+  template_types:
+  - text-1
+  - cta-bar
 - type: include
 pages:
 - title.md
