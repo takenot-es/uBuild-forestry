@@ -1,0 +1,8 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: email_recipient
+  label: Email Recipient
+  description: Email address goes here
