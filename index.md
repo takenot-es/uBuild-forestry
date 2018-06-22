@@ -44,7 +44,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   logo: ''
-  navigation: ''
+  navigation: []
   cta: ''
 - template: hero-banner-w-image
   block: hero-2
