@@ -4,3 +4,5 @@ is_partial: false
 fields:
 - type: blocks
 - type: include
+pages:
+- title.md
